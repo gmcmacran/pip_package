@@ -1,6 +1,6 @@
 # Overview
 
-In this repo, I build a basic python package and follow software development best practices. 
+In this repo, I build a basic python package using pip and follow software development best practices. 
 
 * Code Styling
 * Linting
