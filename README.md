@@ -24,4 +24,11 @@ In this repo, I build a basic python package and follow software development bes
 * Document: mkdocs build
 * Serve documentation: mkdocs serve
 
+# Github Actions
+
+* Build documents on PR and merge into main.
+* Lint & format code on push and PR.
+* Confirm package could be published to pypi on PR.
+* Run tests on push and PR.
+
 
