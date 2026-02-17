@@ -1,5 +1,6 @@
 from typing import Any
 
+
 def identity(x: Any) -> Any:
     """
     Return the input value unchanged.
