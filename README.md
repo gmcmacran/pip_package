@@ -21,6 +21,7 @@ In this repo, I build a basic python package and follow software development bes
 * Uninstall: pip uninstall gregs_pip_package -y
 * Style: ruff format .
 * Lint: ruff check . --fix
+* Pre-commit check: pre-commit run --all-files
 * Test: pytest -v
 * Document: mkdocs build
 * Serve documentation: mkdocs serve
