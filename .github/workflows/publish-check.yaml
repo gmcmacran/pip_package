@@ -2,6 +2,9 @@ name: Publish Check
 
 on:
   pull_request:
+  push:
+    branches:
+      - main
 
 jobs:
   build-and-verify:

@@ -8,8 +8,9 @@ In this repo, I build a basic python package and follow software development bes
 * Documenting
 * Building
 * Versioning
+* CI/CD
 
-# Helpful Commands
+# Helpful Terminal Commands
 
 * Conda Environment: conda create -n pip_package python=3.13.5
 * Activate Conda conda activate pip_package
@@ -27,8 +28,8 @@ In this repo, I build a basic python package and follow software development bes
 # Github Actions
 
 * Build documents on PR and merge into main.
-* Lint & format code on PR.
-* Confirm package could be published to pypi on PR.
+* Ensure code follows lint rules & well formated on PR and merge into main.
+* Confirm package could be published to pypi on PR and merge into main.
 * Run tests on push and PR.
 
 
