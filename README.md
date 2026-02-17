@@ -30,6 +30,6 @@ In this repo, I build a basic python package and follow software development bes
 * Build documents on PR and merge into main.
 * Ensure code follows lint rules & well formated on PR and merge into main.
 * Confirm package could be published to pypi on PR and merge into main.
-* Run tests on push and PR.
+* Run tests on linux, mac, and windows on push and PR.
 
 
