@@ -27,7 +27,7 @@ In this repo, I build a basic python package and follow software development bes
 # Github Actions
 
 * Build documents on PR and merge into main.
-* Lint & format code on push and PR.
+* Lint & format code on PR.
 * Confirm package could be published to pypi on PR.
 * Run tests on push and PR.
 
