@@ -1,0 +1,27 @@
+# Overview
+
+In this repo, I build a basic python package and follow software develoment best practices. 
+
+* Code styling
+* Linting
+* Testing
+* Documenting
+* Building
+* Versioning
+
+# Helpful Commands
+
+* Conda Environment: conda create -n pip_package python=3.13.5
+* Activate Conda conda activate pip_package
+* Install build: pip install build
+* Build: python -m build
+* Install: pip install .
+* Install Dev: pip install -e .[dev]
+* Uninstall: pip uninstall gregs_pip_package -y
+* Style: ruff format .
+* Lint: ruff check . --fix
+* Test: pytest -v
+* Document: mkdocs build
+* Serve documentation: mkdocs serve
+
+
