@@ -23,7 +23,7 @@ In this repo, I build a basic python package using pip and follow software devel
 * Lint: ruff check . --fix
 * Pre-commit check: pre-commit run --all-files
 * Test: pytest -v
-* Document: mkdocs build
+* Document: mkdocs build --strict
 * Serve documentation: mkdocs serve
 
 # Github Actions
